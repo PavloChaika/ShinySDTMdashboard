@@ -1,0 +1,5 @@
+/* Inside your CSS file or Shiny app */
+.pink-box .small-box {
+  background-color: pink;
+  color: white;
+}
